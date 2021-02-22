@@ -1,0 +1,11 @@
+"Order ID";"Order date";"User name";"User phone";"User email";"User address";"User comment";"Total price";Currency
+10;"2021-02-09 15:13:42";+375297259264;+375297259264;sav4iky@gmail.com;"Мира 42";;16826.00;RUR
+9;"2021-02-09 13:54:15";"Вадим Деричь";+77777777777;sav4iky@gmail.com;"Мира 42";777777;3750.00;RUR
+8;"2021-02-07 07:06:25";Ььатат;;sav4iky@gmail.com;;;78000.00;RUR
+7;"2021-02-07 07:04:28";Аааа;;sav4iky@gmail.com;Пружаны;Таат;400.00;RUR
+6;"2021-02-07 07:04:28";Аааа;;sav4iky@gmail.com;Пружаны;Таат;79450.00;RUR
+5;"2021-02-07 07:01:16";Таьа;+79319563868;sav4iky@gmail.com;Пружаны;Ааааа;14248.00;RUR
+4;"2020-02-21 16:02:44";"Сергей Погорелый";382223332222;pogoreliy@i.ua;;;55297.75;RUR
+3;"2019-08-01 08:57:17";"Соколов Виталий";382222222222;socol34@gmail.com;"г. Харьков ул. Молодежная 34";"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";75625.24;RUR
+2;"2019-07-18 11:20:02";"Шилина Юлия";+7777777;shilinayulya@i.ua;Адрес;Комментарий;4323.81;RUR
+1;"2019-07-09 19:59:23";"Иванов Иван Иванович";;4235@dsfsdf.df;;;236940.27;RUR

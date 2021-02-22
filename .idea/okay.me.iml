@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Okay" isTestSource="false" packagePrefix="Okay\" />
+      <sourceFolder url="file://$MODULE_DIR$/backend" isTestSource="false" packagePrefix="Okay\Admin\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/aura/sqlquery" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/matthiasmullie/path-converter" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/container-interop/container-interop" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/haydenpierce/class-finder" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/smarty/smarty" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/snowplow/referer-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/gregwar/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/giggsey/libphonenumber-for-php" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/gregwar/image" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/axy/sourcemap" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rosell-dk/image-mime-type-guesser" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/aura/sql" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bramus/router" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/sabberworm/php-css-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/matthiasmullie/minify" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/axy/codecs-base64vlq" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/giggsey/locale" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rosell-dk/webp-convert" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/axy/backtrace" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/axy/errors" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
